@@ -1,5 +1,7 @@
 # Cappui Thinklab COC
-Cappui ThinkLab Code of Conduct (COC).
+Cappui ThinkLab Code of Conduct (COC). 
+
+The **Cappui Thinklab** is created according to the **[ToDoGroup's](http://todogroup.org/opencodeofconduct)** Open Code of Conduct.
 
 This code of conduct outlines our expectations for participants within the **[#Cappui-ThinkLab](https://thinklab.cappui.com)** community, as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
 
